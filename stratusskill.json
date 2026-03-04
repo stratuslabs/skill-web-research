@@ -1,0 +1,12 @@
+{
+  "id": "skill-web-research",
+  "name": "Web Research",
+  "version": "1.0.0",
+  "description": "Structured web research with source evaluation and citation",
+  "author": "Stratus Labs",
+  "type": "skill",
+  "category": "research",
+  "icon": "magnifyingglass.circle.fill",
+  "capabilities": ["web_search", "web_fetch"],
+  "tags": ["research", "search", "citation", "analysis"]
+}
